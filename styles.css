@@ -1,0 +1,48 @@
+.well{
+    background-color: black;
+}
+.jumbotron{
+    
+    margin-left: 10%;
+    background-color: bisque;
+    width:80%;
+    
+    
+}
+    
+
+.heading{
+    text-align: center;
+    text-shadow: 2px 2px 4px white;
+    color:red;
+    font-family: jokerman;
+}
+
+span{
+    color:green;
+    font-family: algerian;
+}
+
+
+
+#display{
+    text-shadow:2px 2px 4px gray; 
+    margin-left: 48%;
+}
+
+#getinput{
+    text-align: center;
+}
+label{
+    margin-left: 40%;
+}
+.button{
+    margin-left: 50%;
+}
+
+
+#score{
+    color:blue;
+}
+
+
